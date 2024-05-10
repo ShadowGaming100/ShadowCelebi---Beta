@@ -1,0 +1,23 @@
+{
+  "name": "shadowcelebi_beta",
+  "version": "1.0.0",
+  "description": "Beta version of ShadowCelebi Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ShadowCelebi",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadowCelebi/ShadowCelebi---Beta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShadowCelebi/ShadowCelebi---Beta/issues"
+  },
+  "homepage": "https://github.com/ShadowCelebi/ShadowCelebi---Beta#readme"
+}
