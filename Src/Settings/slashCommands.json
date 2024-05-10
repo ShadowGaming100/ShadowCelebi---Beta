@@ -1,0 +1,11 @@
+{
+    "Deploy": {
+        "Global": {
+            "status": true
+        },
+        "Guild": {
+            "status": false,
+            "guildID": ""
+        }
+    }
+}
